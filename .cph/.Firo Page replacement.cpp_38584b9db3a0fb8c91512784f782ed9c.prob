@@ -1,0 +1,1 @@
+{"name":"Local: Firo Page replacement","url":"d:\\Visiul Studio programs\\.vscode\\Firo Page replacement.cpp","tests":[{"id":1659193386500,"input":"3\n12\n1 2 3 4 1 2 5 1 2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visiul Studio programs\\.vscode\\Firo Page replacement.cpp","group":"local","local":true}

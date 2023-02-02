@@ -1,0 +1,1 @@
+{"name":"Local: Priority Scheduling","url":"d:\\Visiul Studio programs\\.vscode\\Priority Scheduling.cpp","tests":[{"id":1656257540196,"input":"3\n1 10 2\n2 5 0\n3 8 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visiul Studio programs\\.vscode\\Priority Scheduling.cpp","group":"local","local":true}

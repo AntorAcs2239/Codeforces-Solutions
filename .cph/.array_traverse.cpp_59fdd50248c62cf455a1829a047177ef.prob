@@ -1,0 +1,1 @@
+{"name":"Local: array_traverse","url":"d:\\Visiul Studio programs\\.vscode\\array_traverse.cpp","tests":[{"id":1624763544180,"input":"5\n1 2 3 4 5\n3 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Visiul Studio programs\\.vscode\\array_traverse.cpp","group":"local","local":true}
